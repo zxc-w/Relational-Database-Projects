@@ -4,3 +4,4 @@ This repository contains all the completed projects from the [Relational Databas
 
 - [First Project](https://www.freecodecamp.org/learn/relational-database/build-a-celestial-bodies-database-project/build-a-celestial-bodies-database): `Celestial Bodies Database`.
 - [Second Project](https://www.freecodecamp.org/learn/relational-database/build-a-world-cup-database-project/build-a-world-cup-database): `World Cup Database`.
+- [Third Project](https://www.freecodecamp.org/learn/relational-database/build-a-salon-appointment-scheduler-project/build-a-salon-appointment-scheduler): `Salon Appointment Scheduler`.
